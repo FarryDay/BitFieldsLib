@@ -1,5 +1,5 @@
 [package]
-name = "bitflags"
+name = "bitfields"
 version = "0.1.0"
 edition = "2024"
 
