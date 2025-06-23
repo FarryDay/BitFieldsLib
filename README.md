@@ -27,11 +27,11 @@ fn main() {
     flags.set(READ | WRITE);
 
     // Проверяем флаги
-    println!(flags.contains(READ));
-    println!(!flags.contains(EXECUTE));
+    println!("{}", flags.contains(READ));
+    println!("{}", !flags.contains(EXECUTE));
 
     // Переключаем флаг
     flags.toggle(WRITE);
-    println!(!flags.contains(WRITE));
+    println!("{}", !flags.contains(WRITE));
 }
 ```
