@@ -1,7 +1,7 @@
 [package]
-name = "bitfields"
+name = "bitfieldslib"
 description = "Библиотека для работы с битовыми флагами."
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
 license = "MIT"
 license_file = "LICENSE.txt"

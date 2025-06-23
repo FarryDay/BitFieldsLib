@@ -1,4 +1,4 @@
-# bitfields - Библиотека для работы с битовыми флагами на Rust.
+# bitfieldslib - Библиотека для работы с битовыми флагами на Rust.
 
 ## Установка
 
@@ -6,5 +6,5 @@
 
 ```toml
 [dependencies]
-bitflags-rs = "0.1.0"
+bitfieldslib = "1.0.0"
 ```
